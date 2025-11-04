@@ -12,10 +12,10 @@ This library includes implementations of arrays, linked lists, stacks, queues, t
 - **Linked Lists**: Singly and doubly linked lists  
 - **Stacks & Queues**: Array-based and linked-list-based  
 - **Hash Tables**: Separate chaining implementation  
-- **Trees**: Binary tree, binary search tree, AVL tree (optional)  
+- **Trees**: Binary tree, binary search tree, AVL tree 
 - **Heaps**: MinHeap and MaxHeap  
 - **Sorting Algorithms**: QuickSort, MergeSort, RadixSort  
-- **Graph Algorithms (Optional)**: BFS, DFS, Dijkstra  
+- **Graph Algorithms**: BFS, DFS, Dijkstra  
 - **Tests**: Each structure includes a test class with example usage  
 
 ---
